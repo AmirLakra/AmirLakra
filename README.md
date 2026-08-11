@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 About Me<br>I'm currently pursuing my Bachelor's degree at IIIT Bhubaneswar<br>I’m currently learning Data Analytics<br>I like solving Business Problems by making useful Insights from data<br><br>Contact me at amirlakra016@gmail.com
+🧑‍💻 About Me<br>I'm currently pursuing my Bachelor's degree at IIIT Bhubaneswar<br>I’m currently building Data Analytics and Data Engineering projects.<br>I like solving Business Problems by making useful Insights from data<br><br>Contact me at amirlakra016@gmail.com
 
 
 ## 🌐 Socials:
